@@ -8,7 +8,7 @@
  4. java.net
  
  ### What makes Quiz Portal so secure ? 
- Quiz Portal is secure because the server handles the database and not the client and after every step client updates the server which in turn updates the server making Quiz portal a great choice for conducting quiz online .
+ Quiz Portal is secure because the server is responsible for dealing with the database ensuring that the client does not have direct access to it.
   
  ### Feautures of Quiz Portal -
  
@@ -47,5 +47,6 @@ It shows the marks of students who have already completed the test.
 ![alt text](https://github.com/Man-vendra/Quiz-Portal/blob/master/images/Screenshot%20(47).png?raw=true)
 Rating shows the marks rating student got and the student can also give rating , on submitting they will see their scores.
 
-
-
+##  Contributors
+* <b> Harshit Sinha </b> - [harshitsinha860](https://github.com/harshitsinha860)
+* <b> Manvendra Singh </b> - [Man-vendra](https://github.com/Man-vendra)
